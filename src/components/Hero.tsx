@@ -7,7 +7,7 @@ const Hero = () => {
       <video
         src="/images/profile.mp4"
         autoPlay
-        // muted
+        muted
         loop
         preload="metadata"
         className="w-[100%] h-[100%] object-cover"
